@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab 1A</string>
+    <string name="action_settings">Settings</string>
+    <string name="increment">INCREMENT</string>
+    <string name="decrement">DECREMENT</string>
+    <string name="_50">50</string>
+</resources>
